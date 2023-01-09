@@ -1,9 +1,9 @@
 #  Python - Everything is object
 
 ```
-9.10. Objects and values
+Objects and values
 
-9.11. Aliasing
+Aliasing
 
 Immutable vs mutable types
 
